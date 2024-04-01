@@ -1,0 +1,16 @@
+# Files and folders of the operating system
+.DS_Store
+Thumbs.db
+
+# Editor files
+.idea
+*.sublime*
+.vscode
+
+# Helper files
+*.log*
+node_modules/
+
+# Builded files
+dist/
+package-lock.json
